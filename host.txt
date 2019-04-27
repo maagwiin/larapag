@@ -1,0 +1,25 @@
+Your Account Details
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+b22_23826112
+Control panel password	**********
+Control panel URL
+cpanel.byethost22.com
+MySQL username
+b22_23826112
+MySQL password
+**********
+MySQL hostname
+sql113.byethost22.com
+FTP username
+b22_23826112
+FTP password
+**********
+FTP host name	ftp.byethost22.com
+
+
+Your Website URL's
+Home page
+http://larapag.byethost22.com
